@@ -20,7 +20,7 @@ Follow these steps to run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/LonelyGR/Password-Generate-Page/tree/main
    ```
 2. Navigate into the project directory:
    ```bash
